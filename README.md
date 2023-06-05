@@ -5,7 +5,7 @@ Desafio de correção de bugs executado durante o curso Explorer da Rocketseat.<
 
 
 <p align="center">
-  <img alt="projeto correção de bugs 01" src="./.github/preview.jpg" width="100%">
+  <img alt="projeto correção de bugs 01" src="./images/preview.jpg" width="100%">
 </p>
 
 
